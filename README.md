@@ -1,10 +1,9 @@
 ![BannerIsai](i.png)
-<h1 align="center">Hi 👋, I'm Isaï Jean Mary</h1>
 <h3 align="center">A passionnate software engineer and Security Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanmaryisai&label=Profile%20views&color=0e75b6&style=flat" alt="jeanmaryisai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanmaryisai" alt="jeanmaryisai" /></a> </p>
+
 
 - 🔭 I’m currently working on [Zònpam](https://www.zonpam.com)
 
